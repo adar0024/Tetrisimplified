@@ -26,6 +26,7 @@ y_data = [0,0,0,0]
 x_data = [0,0,0,0]
 foundation_data = [7,7,7,7]
 foundation = [[7 for i in range(side + 2)] for j in range(vertical+2)]
+
 for i in range(vertical+2):
     foundation[i][0],foundation[i][side+1] = 8, 8
 foundation[vertical+1]=[8 for i in range(side+2)]
