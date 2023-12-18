@@ -1,1 +1,1 @@
-Tetrisimplify - The Game
+Tetrisimplified - The Game
